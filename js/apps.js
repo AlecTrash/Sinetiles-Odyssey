@@ -128,6 +128,23 @@ versions.v1 = {
       aspire: "aspire-painted_dream",
       loop: 8,
     },
+     {
+      name: "Disco",
+      src: "v1-b2-disco",
+      code: "1,2,6,12,14",
+      sound: "bonus-disco",
+      aspire: "aspire-disco",
+      loop: 4, 
+    },
+    {
+      name: "Last Sunset",
+      src: "v1-b3-last_sunset",
+      code: "5,6,10,16,20",
+      sound: "bonus-last_sunset",
+      aspire: "aspire-last_sunset",
+      loop: 8, 
+    },
   ],
 
 }
+
